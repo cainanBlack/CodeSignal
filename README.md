@@ -1,2 +1,2 @@
-# AssortedProjects
-Assorted C++ Projects
+# CodeSignal
+Problems and solutions for CodeSignal
